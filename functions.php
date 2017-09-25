@@ -14,6 +14,10 @@
  * @since FoundationPress 1.0.0
  */
 
+
+/** Jared Ozuna's Functions*/
+require_once( 'library/jaredozuna/functions.php' );
+
 /** Various clean up functions */
 require_once( 'library/cleanup.php' );
 
